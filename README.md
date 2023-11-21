@@ -27,18 +27,30 @@ The project's core idea is to enhance the dining experience by providing a seaml
 ## Main Body
 ### Models
 Utilizing the Spring Framework for class development simplifies object creation and integrates various features seamlessly. Spring offers a robust set of tools, streamlining development and ensuring efficient, maintainable code for enterprise-grade applications.
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/b0331cd3-dda5-44e4-94f2-0b311273e134)
+
 
 ### Protection Enhancements
 Enhancing protection via encryption and the Decorator pattern fortifies sensitive information against potential attacks. Regular security protocol updates ensure a secure environment and continuous evolution of defenses to safeguard user data.
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/741c5f06-5d9b-431d-af3d-57b5662af255)
+
 
 ### Database Testing
 Database environment testing during operation phase ensures a seamless application launch by preemptively addressing potential issues or errors. Rigorous checks verify existence, creating databases and tables if needed for a stable foundation and reliable application.
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/ebaf22c5-b581-483e-8682-a74ecb082197)
+
 
 ### Spring JPA Repository
 Utilizing Spring JPA Repository enhances database connections, ensuring reliability in data delivery to and from the database. It streamlines data access, facilitating efficient data retrieval, and significantly contributes to system robustness and performance.
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/eab0ebda-a54f-40be-b3b2-b8d385ddeb8c)
+
 
 ### Backup Database Connection: Adapter Pattern for Spring JPA Application
 A text-to-SQL code conversion method serves as a backup database connection in case of Spring JPA application failure. Leveraging the Adapter pattern allows a seamless switch to an alternate database connection when needed, ensuring continuity and resilience in database operations.
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/ba87482b-2a29-4add-82cb-0da176f35203)
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/bbb940d2-3d80-4d61-bd77-dc2c07603cc6)
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/abd466b6-2174-4440-9372-cf33c78bf0f0)
+
 
 ### Security Measures and Patterns Utilized
 - **Singleton:** Used for database connections, ensuring a single, shared connection across the application.
