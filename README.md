@@ -36,32 +36,39 @@ Utilizing Spring JPA Repository enhances database connections, ensuring reliabil
 ### Backup Database Connection: Adapter Pattern for Spring JPA Application
 A text-to-SQL code conversion method serves as a backup database connection in case of Spring JPA application failure. Leveraging the Adapter pattern allows a seamless switch to an alternate database connection when needed, ensuring continuity and resilience in database operations.
 
-## Conclusion
-Throughout the Online Food Ordering System's development, the goal was to enhance user experiences and streamline operations for both customers and restaurants. Key design patterns and frameworks like Spring were utilized to deliver a user-friendly interface, efficient order processing, and robust security measures.
-
-### Key Points and Patterns Used
-Various design patterns enhanced the system's functionality and security:
-- Singleton
-- Strategy
-- Factory
-- Observer
-- Decorator
-- Adapter
+### Security Measures and Patterns Utilized
+- **Singleton:** Used for database connections, ensuring a single, shared connection across the application.
+- **Strategy:** Implemented for payment methods, allowing flexible and interchangeable payment options.
+- **Factory:** Employed in object creation to centralize and streamline the instantiation process.
+- **Observer:** Utilized for order notifications, ensuring timely updates on order completion.
+- **Decorator:** Applied to enhance security by encrypting and decoding user information.
+- **Adapter:** Implemented for a backup database connection, converting text to SQL code seamlessly.
 
 ## Project Outcomes
 The project delivered a user-friendly CLI interface enabling effortless browsing, ordering, and secure transactions. It improved customer convenience, restaurant management, and enforced robust security measures.
 
+### Key Outcomes:
+- **Enhanced Customer Convenience:** Providing a streamlined way for users to order from a multitude of restaurants at their convenience.
+- **Improved Restaurant Management:** Enabling restaurants to efficiently manage menus, track orders in real-time, and update item availability.
+- **Robust Security Measures:** Encryption of user data and continuous security updates ensured a secure environment for both customers and restaurants.
+
 ## Challenges Faced
-- Security Implementation
-- Database Testing intricacies
+- **Security Implementation:** Integrating robust security measures posed initial challenges due to the complexity of encryption and ensuring seamless decoding for user information.
+- **Database Testing:** Rigorous testing to ensure the database's functionality and performance required meticulous evaluation, presenting occasional intricacies in addressing potential issues.
 
 ## Insights Gained
-Adaptability and robustness in digital platforms are crucial. Insights include continuous evolution for security and prioritizing a seamless user experience.
+The project emphasized the significance of adaptability and robustness in digital platforms.
+
+### Key Insights:
+- **Continuous Evolution:** The need for ongoing updates and enhancements to stay ahead of emerging security threats.
+- **User-Centric Design:** Prioritizing a seamless user experience significantly impacts customer satisfaction and retention.
 
 ## Future Improvements
-- Enhanced Scalability
-- Refinement in Security Measures
-- Expanded Payment Strategies
+Moving forward, the project could benefit from:
+
+- **Enhanced Scalability:** Further optimizing the system for increased user and restaurant numbers.
+- **Refinement in Security Measures:** Continuous improvements in encryption techniques to fortify user data.
+- **Expanded Payment Strategies:** Integrating additional payment methods for user convenience and flexibility.
 
 ## References
 - [Singleton Design Pattern](javarush.com/groups/posts/2365-patternih-proektirovanija-singleton)
