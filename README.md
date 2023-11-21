@@ -1,3 +1,5 @@
+![image](https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/72cf66a4-d63c-4807-afad-cf0ce7ecba9b)
+
 # ONLINE FOOD ORDERING SYSTEM
 ## Final Project for the "Software Design Patterns" Course
 ### Group: SE-2225
