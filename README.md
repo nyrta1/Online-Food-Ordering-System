@@ -1,4 +1,4 @@
-# ONLINE FOOD ORDERING SYSTEM
+<img width="865" alt="Снимок экрана 2023-11-21 в 20 12 47" src="https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/61d0f2b5-0dfe-4d43-8828-5013dc805173"># ONLINE FOOD ORDERING SYSTEM
 ## Final Project for the "Software Design Patterns" Course
 ### Group: SE-2225
 #### Team members: Nurtai Turlubekov, Zhalgas Sharken
@@ -18,6 +18,7 @@ The project's core idea is to enhance the dining experience by providing a seaml
 5. **Scalability and Performance:** Design the system for scalability to accommodate increasing user and restaurant numbers while ensuring optimal performance.
 
 ## UML Diagram
+<img width="865" alt="UML Diagram" src="https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/10dd5b79-4aa4-4906-9b01-79fe3c51d6ea">
 [GitHub link](https://github.com/nyrta1/Online-Food-Ordering-System)
 
 ## Main Body
