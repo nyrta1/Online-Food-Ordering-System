@@ -19,6 +19,7 @@ The project's core idea is to enhance the dining experience by providing a seaml
 
 ## UML Diagram
 <img width="865" alt="UML Diagram" src="https://github.com/nyrta1/Online-Food-Ordering-System/assets/147030027/10dd5b79-4aa4-4906-9b01-79fe3c51d6ea">
+
 [GitHub link](https://github.com/nyrta1/Online-Food-Ordering-System)
 
 ## Main Body
